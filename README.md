@@ -1,2 +1,10 @@
-# my-website
-A personal website built with modern web technologies to showcase projects, resume, and blog posts.
+# My Website
+
+This is my personal website where I showcase my projects, share a bit about myself, and provide ways to get in touch.
+
+## Features
+
+- Fully responsive design
+- Portfolio section
+- About me section
+- Contact form
